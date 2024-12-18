@@ -96,7 +96,7 @@
 
 /* Hover effect for scaling */
 .image-item img:hover {
-  transform: scale(1.0.980); /* Scales the image by 10% when hovered */
+
   border-style: dotted;
 
 }
