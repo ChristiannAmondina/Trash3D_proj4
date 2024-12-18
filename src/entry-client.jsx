@@ -65,8 +65,8 @@ function App() {
       {/* Image Gallery */}
       <div class="image-gallery">
         {[
-          { src: './images/Websiteview/Namelogo.png', title: '4.1 BURGER' },
-          { src: './images/Websiteview/goku.png', title: '4.2 FLY' },
+          { src: '.images/HTML/Activity 4.1.png', title: '4.1 BURGER' },
+          { src: '.images/HTML/Activity 4.2.png', title: '4.2 FLY' },
           { src: './images/HTML/Activity 4.4.png', title: '4.4 FLAG' },
           { src: './images/HTML/Activity 4.5.png', title: '4.5 SPEAKER' },
           { src: './images/HTML/Activity 4.6.png', title: '4.6 DIRTY WATER' },
